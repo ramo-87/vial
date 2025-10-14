@@ -27,6 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VIAL_TAP_DANCE_ENTRIES 32
 #define VIAL_COMBO_ENTRIES 32
 #define VIAL_KEY_OVERRIDE_ENTRIES 32
+#define VIAL_ALT_REPEAT_KEY_ENTRIES 15
 
 #define TAPPING_TERM 200
 
