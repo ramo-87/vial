@@ -1,9 +1,6 @@
 VIA_ENABLE          = yes
 VIAL_ENABLE         = yes
-REPEAT_KEY_ENABLE  = yes
 MOUSEKEY_ENABLE     = yes
-EXTRAKEY_ENABLE     = yes
+CAPS_WORD_ENABLE = yes
 COMBO_ENABLE        = yes
 QMK_SETTINGS        = yes
-CAPS_WORD_ENABLE = yes
-LAYER_LOCK_ENABLE = yes

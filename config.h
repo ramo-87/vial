@@ -26,8 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DYNAMIC_KEYMAP_LAYER_COUNT 15
 #define VIAL_TAP_DANCE_ENTRIES 32
 #define VIAL_COMBO_ENTRIES 32
-#define VIAL_KEY_OVERRIDE_ENTRIES 32
-#define VIAL_ALT_REPEAT_KEY_ENTRIES 15
 
 #define TAPPING_TERM 200
 
@@ -37,7 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    define USE_SERIAL
 #endif
 
-#define SPLIT_WATCHDOG_ENABLE
+// #define SPLIT_WATCHDOG_ENABLE
 
 /* Select hand configuration */
 #define MASTER_LEFT
